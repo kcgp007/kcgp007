@@ -1,6 +1,6 @@
 [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
 
-![kcgp007's github stats](https://github-readme-stats.vercel.app/api?username=kcgp007&&show_icons=true&theme=cobalt)
+![kcgp007's github stats](https://github-readme-stats.vercel.app/api?username=kcgp007&count_private=true&show_icons=true&theme=cobalt)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=kcgp007&repo=tools)](https://github.com/kcgp007/tools)
 
