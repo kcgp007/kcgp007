@@ -8,4 +8,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=kcgp007&repo=neko)](https://github.com/kcgp007/neko)
 
-Request ID=05012022/8548534
+感谢JetBrains的支持
+
+![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png)
+
+![GoLand logo](https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand_icon.png)
