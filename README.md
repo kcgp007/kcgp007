@@ -6,7 +6,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=kcgp007&repo=tools)](https://github.com/kcgp007/tools)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=kcgp007&repo=neko)](https://github.com/kcgp007/neko)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=kcgp007&repo=go-math)](https://github.com/kcgp007/go-math)
 
 # 感谢 JetBrains 的支持
 
